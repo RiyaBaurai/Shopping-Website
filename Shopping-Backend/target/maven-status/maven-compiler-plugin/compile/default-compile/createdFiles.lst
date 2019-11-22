@@ -1,0 +1,11 @@
+com\niit\miet\shopping_backend\model\Category.class
+com\niit\miet\shopping_backend\repositery\SupplierRepositery.class
+com\niit\miet\shopping_backend\App.class
+com\niit\miet\shopping_backend\config\HibernateConfiguration.class
+com\niit\miet\shopping_backend\model\Supplier.class
+com\niit\miet\shopping_backend\repositery\ProductRepositery.class
+com\niit\miet\shopping_backend\model\Product.class
+com\niit\miet\shopping_backend\repositery\CategoryRepositoryImpl.class
+com\niit\miet\shopping_backend\repositery\SupplierRepositryImp.class
+com\niit\miet\shopping_backend\repositery\CategoryRespositery.class
+com\niit\miet\shopping_backend\repositery\ProductRepositeryImp.class

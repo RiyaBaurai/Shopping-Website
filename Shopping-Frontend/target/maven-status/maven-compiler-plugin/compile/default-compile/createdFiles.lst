@@ -1,0 +1,4 @@
+com\niit\miet\shopping_frontend\controller\ProductController.class
+com\niit\miet\shopping_frontend\controller\CategoryController.class
+com\niit\miet\shopping_frontend\controller\SupplierController.class
+com\niit\miet\shopping_frontend\controller\HomeController.class
